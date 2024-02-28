@@ -1,4 +1,6 @@
-Yksinkertainen laskin
+Laskin
+
+https://65deb0d5eb4ffe90cd014dd0--snazzy-frangipane-cdc3a8.netlify.app
 
 Tämä on laskinprojekti, joka on toteuttu HTML, CSS ja JavaScript -tekniikoilla.
 
